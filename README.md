@@ -14,6 +14,12 @@ Zur Hilfestellung des Projektes steht der Dozent zur verfügung:
 
     Nicolai Parlog
     
+    
+License
+
+Die Lizenzrechte sind in der Datei LICENSE.txt zu lesen. Sie beinhaltet Informationen zu Nutzungsrecht, Schutz und Übertragbarkeit des Codes von diesem Projekt. 
+
+
 Zielsetzung / Aufgabenstellung
 Die Aufgabenstellungen sind vier aufeinander folgende Blöcke an Einzelaufgaben. 
 Jeder Aufgabenblock bildet einen Milestone welcher die Voraussetzungen für den folgenden Aufgabenblock setzt. 
