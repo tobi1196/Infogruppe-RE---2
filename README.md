@@ -26,6 +26,9 @@ Unser Verhaltenskodex ist in der Datei Code of Conduct festgehalten. Vor der Mit
 
 Der Verhaltenskodex beinhaltet eine Sammlung von Verhaltensweisen zur der sich alle Mitwirkenden selbstverpflichten. 
 
+##  Sprachregeln
+
+Die für das Projekt geltenden Sprachregeln, welche die Kommunikation untereinander und im Code vereinfacht sind unter CONTRIBUTING.md zu finden.
 
 ##  Zielsetzung / Aufgabenstellung
 Die Aufgabenstellungen sind vier aufeinander folgende Blöcke an Einzelaufgaben. 
