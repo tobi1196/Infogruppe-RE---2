@@ -1,4 +1,4 @@
-Projektbeschreibung Infogruppe-RE 2
+##  Projektbeschreibung Infogruppe-RE 2
 
 Dieses Projekt ist das Abschlussprojekt des Modules Informatik an der Technischen Hochschule Bingen. 
 
@@ -15,19 +15,26 @@ Zur Hilfestellung des Projektes steht der Dozent zur verfügung:
     Nicolai Parlog
     
     
-License
+##  License
 
 Die Lizenzrechte sind in der Datei LICENSE.txt zu lesen. Sie beinhaltet Informationen zu Nutzungsrecht, Schutz und Übertragbarkeit des Codes von diesem Projekt. 
 
+##  Informationen für Mitwirkende
+##  Verhaltenskodex - Code of Conduct
 
-Zielsetzung / Aufgabenstellung
+Unser Verhaltenskodex ist in der Datei Code of Conduct festgehalten. Vor der Mitwirkung beim Projekt wird diese Datei bitte durchgelesen.
+
+Der Verhaltenskodex beinhaltet eine Sammlung von Verhaltensweisen zur der sich alle Mitwirkenden selbstverpflichten. 
+
+
+##  Zielsetzung / Aufgabenstellung
 Die Aufgabenstellungen sind vier aufeinander folgende Blöcke an Einzelaufgaben. 
 Jeder Aufgabenblock bildet einen Milestone welcher die Voraussetzungen für den folgenden Aufgabenblock setzt. 
 Die Aufgabenstellungen sind von der E-Lerning Plattform OLAT übernommen worden - Aufgabensteller ist der Dozent Nicolai Parlog.
 
-Project Infrastructure:
+##  Project Infrastructure:
 
-1.Create the project’s infrastructure:
+##  1.Create the project’s infrastructure:
 
     create a README.md describing the project and listing your names (they do not have to be real names if you don’t want; GitHub user names are fine as well)
     add a license and document it in the README
@@ -46,7 +53,7 @@ When all that's done:
 
     release version 1.0
 
-2.Create a Simple Traffic Simulation
+##  2.Create a Simple Traffic Simulation
 
 Now that the infrastructure is set up, you can write some code. Please always include tests for your code and remember to use issues and pull requests, like described above:
 
@@ -65,7 +72,7 @@ When all that's done:
 
     release version 2.0
 
-3.Extend Simulation to Cover an Entire Day
+##  3.Extend Simulation to Cover an Entire Day
 
     randomize the decision for whether each individual car can drive or gets delayed; the chance for a delay depends on how many cars or on the road compared to the network’s capacity:
         less than at 50% capacity: 5% chance of delay
@@ -89,7 +96,7 @@ When all that's done:
 
     release version 3.0
 
-4.Extend Simulation with Various Participants
+##  4.Extend Simulation with Various Participants
 
     extend the simulation to allow for other traffic participants:
         create a suitable interface, of which the car is one implementation
