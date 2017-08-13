@@ -19,6 +19,15 @@ Zur Hilfestellung des Projektes steht der Dozent zur verfügung:
 
 Die Lizenzrechte sind in der Datei LICENSE.txt zu lesen. Sie beinhaltet Informationen zu Nutzungsrecht, Schutz und Übertragbarkeit des Codes von diesem Projekt. 
 
+## Ausführung des Programm
+
+Das Programm kann als .jar Datei mit Java über die Command Line folgendermaßen gestartet werden:
+
+java –jar <Pfad zum Programm>
+
+Die Jar Datei befindet sich im Ordner \out\artifacts\Infogruppe_RE___2_jar
+
+
 ##  Informationen für Mitwirkende
 ##  Verhaltenskodex - Code of Conduct
 
