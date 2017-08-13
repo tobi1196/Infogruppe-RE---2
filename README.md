@@ -21,7 +21,7 @@ Die Lizenzrechte sind in der Datei LICENSE.txt zu lesen. Sie beinhaltet Informat
 
 ## Ausführung des Programm
 
-Das Programm kann als .jar Datei mit Java über die Command Line folgendermaßen gestartet werden:
+Das Programm kann als .jar Datei mit Java über die Command Line folgendermaßen gestartet werden :
 
 java –jar <Pfad zum Programm>
 
