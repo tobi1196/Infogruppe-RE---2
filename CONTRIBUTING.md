@@ -1,4 +1,4 @@
-Sprachregeln
+## Sprachregeln
 
 Für das Projekt gelten festgelegte Regeln für die Sprache. Dies soll Durcheinander bei der Kommunikation miteinander und dem Code vermeiden.
 
