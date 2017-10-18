@@ -10,7 +10,7 @@ Die Beteiligten des Projektes sind drei Studierenden zusammen in einer Gruppe:
     JambalayaSmackson
     tobi1196
 
-Zur Hilfestellung des Projektes steht der Dozent zur verfügung:
+Zur Hilfestellung des Projektes steht der Dozent zur verfügung :
 
     Nicolai Parlog
     
